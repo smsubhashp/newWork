@@ -18,7 +18,7 @@ public class LoginTest {
 	public void setUp() {
 	     WebDriverManager.chromedriver().setup();
 		driver= new ChromeDriver();
-		////
+		////Prity Pagli
 	}
 	@Test
 	public void doLogin() {
